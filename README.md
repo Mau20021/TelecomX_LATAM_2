@@ -1,7 +1,3 @@
-Para que tu repositorio de GitHub destaque como el de un Analista Junior de Machine Learning, el README debe reflejar no solo el análisis, sino la capacidad técnica de modelado que aplicaste en esta segunda parte.
-
-Aquí tienes una propuesta lista para copiar y pegar en tu archivo README.md:
-
 📊 Telecom X LATAM – Predicción de Cancelación de Clientes (Churn)
 📌 Descripción del Proyecto
 Este proyecto es la segunda fase del análisis de Telecom X, donde se evolucionó del análisis exploratorio (EDA) hacia la creación de un pipeline de Machine Learning. El objetivo principal es predecir con precisión qué clientes tienen mayor probabilidad de cancelar su servicio para permitir intervenciones preventivas.
